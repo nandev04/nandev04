@@ -106,14 +106,7 @@ me chamo Renan, tenho 20 anos e sou natural de São Paulo. Concluí o ensino mé
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nandev04&theme=react&show_icons=true&hide_border=false&count_private=true"
-  />
-
+    
 <img 
       align="left" 
       alt="GitHub Stats" 
