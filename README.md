@@ -1,6 +1,6 @@
 # 🖥️ Renan Alves
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full stack`**
 
 Opa, tudo bem? <br>
 me chamo Renan, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio em uma escola pública e, atualmente, curso Análise e Desenvolvimento de Sistemas, complementado por cursos extras na área de tecnologia. Com o objetivo de me especializar em Front-End, venho aprofundando meus estudos em **Next.js** e, simultaneamente, estou adquirindo conhecimentos em **Node**, com a intenção de iniciar minha trajetória no Back-End e me tornar um profissional mais completo.
