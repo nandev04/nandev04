@@ -2,8 +2,9 @@
 
 **`Desenvolvedor Full stack`**
 
-Opa, tudo bem? <br>
-me chamo Renan, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio em uma escola pública e, atualmente, curso Análise e Desenvolvimento de Sistemas, complementado por cursos extras na área de tecnologia. Com o objetivo de me especializar em Front-End, venho aprofundando meus estudos em **Next.js** e, simultaneamente, estou adquirindo conhecimentos em **Node**, com a intenção de iniciar minha trajetória no Back-End e me tornar um profissional mais completo.
+Opa, tranquilo? <br>
+Me chamo Renan, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio em uma escola pública e sou formado em Análise e Desenvolvimento de Sistemas, atualmente cursando Engenharia de Software, complementado por cursos extras na área de tecnologia.
+Com o objetivo de me aperfeiçoar em Front-End, venho aprofundando meus estudos em React e seu ecossistema (como React Router, React Query, React Hook Form e Zustand) e, simultaneamente, estou adquirindo conhecimentos em Node.js com Express, desenvolvendo APIs e trabalhando com ferramentas como Docker, com a intenção de me especializar em Back-End e me tornar um profissional mais completo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nandev04/">
@@ -62,19 +63,11 @@ me chamo Renan, tenho 21 anos e sou natural de São Paulo. Concluí o ensino mé
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Zustand" 
+    title="Zustand"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-plain.svg" 
 />
 <img 
     align="left" 
@@ -94,12 +87,85 @@ me chamo Renan, tenho 21 anos e sou natural de São Paulo. Concluí o ensino mé
 />
 <img 
     align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Redis" 
+    title="Redis"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vitest" 
+    title="Vitest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jest" 
+    title="Jest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="GitHub Actions" 
+    title="GitHub Actions"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" 
+/>
+
 <br/>
 <br/>
 
