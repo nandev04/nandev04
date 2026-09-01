@@ -1,5 +1,4 @@
 # 🖥️ Renan Alves
-
 **`Desenvolvedor Full stack`**
 
 Opa, tranquilo? <br>
@@ -14,13 +13,18 @@ Com o objetivo de me aperfeiçoar em Front-End, venho aprofundando meus estudos 
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-  
+    <a href="https://nandev04.vercel.app/">
+        <img 
+            alt="Meu portfólio" 
+            title="Portfólio" 
+            src="https://img.shields.io/badge/portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="TypeScript"
@@ -109,19 +113,5 @@ Com o objetivo de me aperfeiçoar em Front-End, venho aprofundando meus estudos 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" 
 />
-
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-    
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandev04&theme=react&show_icons=true&hide_border=false&layout=compact"
-  />
-
-</p>
